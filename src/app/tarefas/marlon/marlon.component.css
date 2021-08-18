@@ -1,0 +1,14 @@
+.marlon {
+  border: solid 2px black;
+}
+
+.saldo {
+  border-top: solid 2px black;
+  border-bottom: solid 2px black;
+  border-left: solid 2px black;
+  border-radius: 5px;
+}
+
+.margenSup{
+  margin-top: 10px;
+}
